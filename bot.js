@@ -16,7 +16,7 @@ client.on('ready', () => {
     client.user.setActivity('2Play',{type: 'PLAYING'});
 });
 //by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
-const prefix = "2";
+const prefix = "$";
 
 
 

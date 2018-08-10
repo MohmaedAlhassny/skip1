@@ -16,7 +16,7 @@ client.on('ready', () => {
     client.user.setActivity('2Play',{type: 'PLAYING'});
 });
 //by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
-const prefix = "$";
+const prefix = "Alhassny Orders.";
 
 
 
